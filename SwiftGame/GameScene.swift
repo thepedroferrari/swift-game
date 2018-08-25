@@ -1,9 +1,16 @@
 //
-//  GameScene.swift
-//  SwiftGame
+// ___PACKAGENAME___
+// Created by: ___FULLUSERNAME___ and Pedro Ferrari on ___DATE___
+// Copyright (c) 2018 ThePugas
 //
-//  Created by Paula Hasstenteufel on 2018-08-25.
-//  Copyright © 2018 Paula Hasstenteufel. All rights reserved.
+//  _________________________________________
+// |   _____ _       _____                   |
+// |  |_   _| |_ ___|  _  |_ _ ___ ___ ___   |
+// |    | | |   | -_|   __| | | . | .'|_ -|  |
+// |    |_| |_|_|___|__|  |___|_  |__,|___|  |
+// |                          |___|          |
+// |_________________________________________|
+//
 //
 
 import SpriteKit
