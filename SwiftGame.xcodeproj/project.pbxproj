@@ -17,6 +17,9 @@
 		663EFE6B2131373F00A6B68B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 663EFE6A2131373F00A6B68B /* Assets.xcassets */; };
 		663EFE6E2131373F00A6B68B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 663EFE6C2131373F00A6B68B /* LaunchScreen.storyboard */; };
 		663EFE792131373F00A6B68B /* SwiftGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 663EFE782131373F00A6B68B /* SwiftGameTests.swift */; };
+		6683E04A2131B9C400AD6D06 /* aaaaaaaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6683E0492131B9C400AD6D06 /* aaaaaaaa.swift */; };
+		6683E04C2131BAA500AD6D06 /* hdbfsbddb.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6683E04B2131BAA500AD6D06 /* hdbfsbddb.swift */; };
+		6683E04E2131BABD00AD6D06 /* jbsjbk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6683E04D2131BABD00AD6D06 /* jbsjbk.swift */; };
 		6A718C5C126A753EA01CCB29 /* Pods_SwiftGameTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68E1158A33FD13943F351EE8 /* Pods_SwiftGameTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -45,6 +48,9 @@
 		663EFE742131373F00A6B68B /* SwiftGameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftGameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		663EFE782131373F00A6B68B /* SwiftGameTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftGameTests.swift; sourceTree = "<group>"; };
 		663EFE7A2131373F00A6B68B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6683E0492131B9C400AD6D06 /* aaaaaaaa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aaaaaaaa.swift; sourceTree = "<group>"; };
+		6683E04B2131BAA500AD6D06 /* hdbfsbddb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hdbfsbddb.swift; sourceTree = "<group>"; };
+		6683E04D2131BABD00AD6D06 /* jbsjbk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jbsjbk.swift; sourceTree = "<group>"; };
 		68E1158A33FD13943F351EE8 /* Pods_SwiftGameTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftGameTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B72E3C793D97367A4410263D /* Pods-SwiftGame.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftGame.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftGame/Pods-SwiftGame.debug.xcconfig"; sourceTree = "<group>"; };
 		D475112BA688AAAF2742B2DA /* Pods_SwiftGame.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftGame.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -113,6 +119,9 @@
 				663EFE6A2131373F00A6B68B /* Assets.xcassets */,
 				663EFE6C2131373F00A6B68B /* LaunchScreen.storyboard */,
 				663EFE6F2131373F00A6B68B /* Info.plist */,
+				6683E0492131B9C400AD6D06 /* aaaaaaaa.swift */,
+				6683E04B2131BAA500AD6D06 /* hdbfsbddb.swift */,
+				6683E04D2131BABD00AD6D06 /* jbsjbk.swift */,
 			);
 			path = SwiftGame;
 			sourceTree = "<group>";
@@ -301,7 +310,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				663EFE642131373E00A6B68B /* GameScene.swift in Sources */,
+				6683E04A2131B9C400AD6D06 /* aaaaaaaa.swift in Sources */,
 				663EFE662131373E00A6B68B /* GameViewController.swift in Sources */,
+				6683E04E2131BABD00AD6D06 /* jbsjbk.swift in Sources */,
+				6683E04C2131BAA500AD6D06 /* hdbfsbddb.swift in Sources */,
 				663EFE5E2131373E00A6B68B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

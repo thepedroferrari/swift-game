@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FILEHEADER</key>
+	<string> ___PACKAGENAME___
+// Created by: ___FULLUSERNAME___ and Pedro Ferrari on ___DATE___
+// Copyright (c) 2018 ThePugas
+//
+//  _________________________________________
+// |   _____ _       _____                   |
+// |  |_   _| |_ ___|  _  |_ _ ___ ___ ___   |
+// |    | | |   | -_|   __| | | . | .&apos;|_ -|  |
+// |    |_| |_|_|___|__|  |___|_  |__,|___|  |
+// |                          |___|          |
+// |_________________________________________|
+//
+//</string>
+</dict>
+</plist>
